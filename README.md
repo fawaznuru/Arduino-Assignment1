@@ -42,4 +42,4 @@ This project demonstrates the fundamentals of Arduino programming by implementin
 
 ## Skills Learned
 This assignment improved my understanding of variables, functions, LED control, while loops, and program structure.
-Thank You
+## Thank You
